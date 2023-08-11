@@ -299,6 +299,11 @@ form input, form textarea{
     background: #ff004f;
 }
 
+.github {
+    margin-top: 15px;
+    text-decoration: none;
+}
+
 /*-------------------------------footer----------------------*/
 
 .copyright{
